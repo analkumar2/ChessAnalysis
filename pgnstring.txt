@@ -1,0 +1,50 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.06.20"]
+[Round "-"]
+[White "xbowcr"]
+[Black "analkumarkumar"]
+[Result "0-1"]
+[CurrentPosition "r4rk1/p5pp/4p3/5p2/2Q4q/3P4/PP2nPP1/1RB2RK1 w - -"]
+[Timezone "UTC"]
+[ECO "B30"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Nyezhmetdinov-Rossolimo-Attack"]
+[UTCDate "2021.06.20"]
+[UTCTime "10:14:53"]
+[WhiteElo "1156"]
+[BlackElo "1182"]
+[TimeControl "900+10"]
+[Termination "analkumarkumar won by checkmate"]
+[StartTime "10:14:53"]
+[EndDate "2021.06.20"]
+[EndTime "10:41:46"]
+[Link "https://www.chess.com/game/live/17923244251"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d5 {INACCURACY (+1.44)} 4. Qe2? {MISTAKE (-0.39)}
+({(+1.44) The best move was} 4. exd5 Qxd5 5. O-O h5 6. d3 Qd7 7. Bc4 a6 8. Re1
+Nf6) 4... dxe4 5. Bxc6+ bxc6 6. Qxe4 Nf6 {INACCURACY (+1.19)} ({(+0.25) The best
+move was} 6... e6 7. O-O Nf6 8. Qe2 Bd6 9. b3 O-O 10. Nc3 Qb6 11. d3) 7. Qxc6+
+Bd7 8. Qxc5 e6 9. Qe3 {INACCURACY (+0.52)} ({(+1.09) The best move was} 9. Qd4
+Bc6 10. Qxd8+ Rxd8 11. d3 Bxf3 12. gxf3 Nd5 13. Bg5 Nb4 14. Bxd8) 9... Bd6
+{INACCURACY (+1.08)} ({(+0.52) The best move was} 9... Rc8 10. Nc3 Bd6 11. h3
+O-O 12. d4 Bc6 13. O-O Nd5 14. Nxd5 Bxd5) 10. O-O O-O ± {INACCURACY (+1.72)}
+({(+1.06) The best move was} 10... Rc8 11. Nc3 O-O 12. d3 Nd5 13. Qd4 Nxc3 14.
+bxc3 Bc6 15. h3) 11. Ne5 = {INACCURACY (+0.55)} ({(+1.72) The best move was} 11.
+c4 Rc8 12. d3 Rc5 13. Nc3 Bc6 14. h3 Rf5) 11... Nd5 12. Qe4 f5 13. Qe2? {MISTAKE
+(-1.26)} ({(+0.86) The best move was} 13. Qd4 Bxe5 14. Qxe5 Rc8 15. c3 f4 16. d3
+f3 17. gxf3 Rxf3 18. c4) 13... Be8?? ± {BLUNDER (+1.85)} ({(-1.26) The best move
+was} 13... Nf4 14. Qf3 Bxe5 15. d4 Bxd4 16. Qxf4 Qf6 17. Nc3) 14. Nc3? =
+{MISTAKE (+0.25)} ({(+1.85) The best move was} 14. d4 Bxe5 15. Qxe5 Qf6 16. Qxf6
+Nxf6 17. c3 Rb8 18. Nd2 Bf7 19. Re1 Rfd8) 14... Nb4? ± {MISTAKE (+2.40)}
+({(+0.25) The best move was} 14... Nf4 15. Qe3 Qg5 16. Qf3 Bh5 17. Qg3 Qxg3 18.
+fxg3 Ne2+ 19. Nxe2) 15. Nb5?? ∓ {BLUNDER (-6.00)} ({(+2.40) The best move was}
+15. d4 Rb8 16. h3 Rb7 17. Rd1 Nd5 18. Nxd5) 15... Nxc2?? = {BLUNDER (-0.68)}
+({(-6.00) The best move was} 15... Bxb5 16. d3 Nxc2 17. Qxc2 Bxe5) 16. Rb1?? ∓
+{BLUNDER (-4.40)} ({(-0.68) The best move was} 16. Nxd6 Qxd6 17. Rb1 Nd4 18. Qe1
+Rd8 19. Nc4 Qa6 20. d3 Bh5 21. Be3 Qxa2) 16... Bxb5 17. Qxb5 Nd4 18. Qc4
+{INACCURACY (-6.32)} ({(-4.14) The best move was} 18. Qd7 Bxe5 19. Qxd8 Ne2+ 20.
+Kh1 Rfxd8 21. Re1 Nxc1 22. Rxe5) 18... Bxe5 19. d3?? {BLUNDER (-9.79)} ({(-4.80)
+The best move was} 19. f4 Rc8 20. Qd3 Bc7 21. b3 Bb6 22. Kh1 Nc2 23. Qxd8 Rfxd8)
+19... Bxh2+ 20. Kxh2?? {BLUNDER (♚ Mate in 2)} ({(-10.82) The best move was} 20.
+Kh1 Be5 21. Bg5 Qxg5 22. g3 Rfc8 23. Qa4 Rc2 24. Kg1 Bxg3 25. Qa3 Bc7+ 26. Kh1)
+20... Qh4+ 21. Kg1 □ Ne2# 0-1
