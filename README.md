@@ -21,3 +21,4 @@ This script was made because:
 * Specify the time limit (in seconds) each move is evaluated for, in the timelimit variable. Default is 15
 * I've set multipv to 3. You can change it in the multipv variable
 * Modify the script as you like by going through the chess package doc - https://python-chess.readthedocs.io/en/latest/index.html
+* Run the script AnalysisGraph3.py
