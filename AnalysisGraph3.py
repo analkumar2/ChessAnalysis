@@ -98,6 +98,8 @@ def main():
 
 	plt.bar(movenumlist, scorelist, width=0.5, edgecolor='grey')
 	plt.ylim(-10,10)
+	plt.xlabel('Move number')
+	plt.ylabel('Evaluation')
 	plt.grid()
 
 	for mmm, MMM in matelist:
